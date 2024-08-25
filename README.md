@@ -7,7 +7,6 @@
 
 
 - 🔭 I’m currently working on **Test Automation**
-- 🌱 I’m currently learning **TestNG**
 -  👨‍💻 All my projects are available on **https://github.com/Tama-Shil?tab=repositories**
 
 - 💬 Ask me about **Manual and Automation Tesing**
